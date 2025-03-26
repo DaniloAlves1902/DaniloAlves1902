@@ -5,7 +5,7 @@ Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Te
 
 ---
 
-![Imagem de Banner](https://link-da-sua-imagem.jpg)
+![Imagem de Banner](https://becode.com.br/wp-content/uploads/2017/02/As-15-principais-linguagens-de-programa%C3%A7%C3%A3o-no-mundo.png)
 
 ## 📚 Tecnologias que uso
 
@@ -18,7 +18,7 @@ Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Te
 
 ## 🔥 Projetos em Destaque
 
-[**PicPay Simplificado**](https://github.com/DaniloAlves1902/picpay-simplificado)  
+[**PicPay Simplificado**](https://github.com/DaniloAlves1902/picpaysimplificado)  
 Um projeto que simula um sistema de pagamento estilo **PicPay**, onde os usuários podem criar contas, fazer transferências entre contas e visualizar um histórico de transações. Utiliza **Java** no backend com **Spring Boot** e um frontend simples em **React**.
 
 [**ToDo List**](https://github.com/DaniloAlves1902/todo-list)  
