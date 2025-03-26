@@ -5,7 +5,6 @@ Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Te
 
 ---
 
-![Imagem de Banner](https://becode.com.br/wp-content/uploads/2017/02/As-15-principais-linguagens-de-programa%C3%A7%C3%A3o-no-mundo.png)
 
 ## 📚 Tecnologias que uso
 
