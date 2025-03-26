@@ -18,9 +18,11 @@ Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Te
 
 ## 🔥 Projetos em Destaque
 
-[**Projeto 1**](https://github.com/DaniloAlves1902/projeto1) - Descrição curta sobre o projeto.
+[**PicPay Simplificado**](https://github.com/DaniloAlves1902/picpay-simplificado)  
+Um projeto que simula um sistema de pagamento estilo **PicPay**, onde os usuários podem criar contas, fazer transferências entre contas e visualizar um histórico de transações. Utiliza **Java** no backend com **Spring Boot** e um frontend simples em **React**.
 
-[**Projeto 2**](https://github.com/DaniloAlves1902/projeto2) - Descrição curta sobre o projeto.
+[**ToDo List**](https://github.com/DaniloAlves1902/todo-list)  
+Aplicação simples de lista de tarefas, onde o usuário pode adicionar, editar e excluir suas tarefas. Foi construído usando **React** no frontend e **Node.js** no backend, com persistência de dados no **MongoDB**.
 
 ---
 
@@ -43,20 +45,3 @@ Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Te
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-<!--
-**DaniloAlves1902/DaniloAlves1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
