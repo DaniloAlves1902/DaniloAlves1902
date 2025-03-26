@@ -18,10 +18,10 @@ Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Te
 ## 🔥 Projetos em Destaque
 
 [**PicPay Simplificado**](https://github.com/DaniloAlves1902/picpaysimplificado)  
-Um projeto que simula um sistema de pagamento estilo **PicPay**, onde os usuários podem criar contas, fazer transferências entre contas e visualizar um histórico de transações. Utiliza **Java** no backend com **Spring Boot** e um frontend simples em **React**.
+Um projeto que simula um sistema de pagamento estilo **PicPay**, onde os usuários podem criar contas, fazer transferências entre contas e visualizar um histórico de transações. Utiliza **Java** no backend com **Spring Boot**.
 
 [**ToDo List**](https://github.com/DaniloAlves1902/todo-list)  
-Aplicação simples de lista de tarefas, onde o usuário pode adicionar, editar e excluir suas tarefas. Foi construído usando **React** no frontend e **Node.js** no backend, com persistência de dados no **MongoDB**.
+Aplicação simples de lista de tarefas, onde o usuário pode adicionar, editar e excluir suas tarefas. Foi construído usando **Spring Boot** no backend, com persistência de dados no **MyS1QL**.
 
 ---
 
