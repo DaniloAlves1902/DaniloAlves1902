@@ -1,7 +1,7 @@
 # Olá, eu sou o **Danilo Alves** 👋
 
-### 🚀 **Desenvolvedor Fullstack | Java | Analista de Dados**
-Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência como **Técnico de Informática** e **Analista de Dados**. Estou focado em solidificar minha carreira em **desenvolvimento de software**, aplicando boas práticas de programação e aprendendo constantemente novas tecnologias.
+### 🚀 **Desenvolvedor Backend Java | Analista de Dados**
+Atualmente sou **graduando em Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência como **Técnico de Informática** , **Analista de Dados** e **Desenvolvedor Fullstack**. Estou focado em solidificar minha carreira em **desenvolvimento de software**, aplicando boas práticas de programação e aprendendo constantemente novas tecnologias.
 
 ---
 
