@@ -33,7 +33,7 @@ Aplicação simples de lista de tarefas, onde o usuário pode adicionar, editar 
 
 ## 📬 Vamos nos conectar!
 
-- **LinkedIn**: [Danilo Alves](in/danilo-de-figueiredo-alves-103262327)
+- **LinkedIn**: [Danilo Alves](https://www.linkedin.com/in/danilo-de-figueiredo-alves-103262327/)
 - **Email**: [danilo.alvess1902@gmail.com](mailto:danilo.alvess1902@gmail.com)
 
 ---
