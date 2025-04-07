@@ -43,9 +43,7 @@ Graduando em **Análise e Desenvolvimento de Sistemas**, com experiência compro
 
 <div align="center">
 
-<a href="https://github.com/DaniloAlves1902/picpaysimplificado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloAlves1902&repo=picpaysimplificado&theme=tokyonight" />
-</a>
+
 <a href="https://github.com/DaniloAlves1902/todo-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloAlves1902&repo=todo-list&theme=tokyonight" />
 </a>
