@@ -61,7 +61,7 @@ Sou um **Desenvolvedor Fullstack** com foco em **Java** e **Spring**, atualmente
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloAlves1902&repo=picpaysimplificado&theme=tokyonight" />
   </a>
   <a href="https://github.com/DaniloAlves1902/TodoListAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloAlves1902&repo=todo-list&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniloAlves1902&repo=TodoListAPI&theme=tokyonight" />
   </a>
 </div>
 
