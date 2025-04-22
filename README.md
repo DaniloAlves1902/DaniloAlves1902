@@ -90,7 +90,7 @@ Sou um **Desenvolvedor Fullstack** com foco em **Java** e **Spring**, atualmente
     <td width="50%">
       <h3 align="center">ToDo List</h3>
       <div align="center">
-        <a href="https://github.com/DaniloAlves1902/todo-list" target="_blank">
+        <a href="https://github.com/DaniloAlves1902/TodoListAPI" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" alt="Spring Icon">
         </a>
         <p>
