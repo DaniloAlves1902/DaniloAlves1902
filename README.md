@@ -113,7 +113,7 @@ Sou um **Desenvolvedor Fullstack** com foco em **Java** e **Spring**, atualmente
 ## <div align="center">🛠️ Stack Tecnológica</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,html,css,js,bootstrap,mysql,postgresql,mongodb,git,github,docker,maven&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,html,css,js,bootstrap,mysql,postgresql,mongodb,git,github,docker,maven,react&perline=5" />
 </div>
 
 <details>
@@ -134,6 +134,7 @@ Sou um **Desenvolvedor Fullstack** com foco em **Java** e **Spring**, atualmente
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </div>
   
   <h3>🗄️ Bancos de Dados</h3>
