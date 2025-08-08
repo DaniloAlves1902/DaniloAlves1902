@@ -29,7 +29,7 @@
 
 ### Projetos Principais em Destaque
 
-#### Plataforma de Gestão de Tarefas (Mini-ERP) para StartINK
+#### Plataforma de Gestão de Tarefas, estoque, financiamentos e calculadora de lucros (ERP) para StartINK
 Desenvolvido como **único desenvolvedor**, este é um sistema completo para gestão de estoque e tarefas, incluindo um dashboard interativo para visualização de dados em tempo real. Uma solução robusta construída com **React** no frontend e um backend poderoso com Java Spring Boot para gerenciar múltiplos usuários, projetos e o ciclo de vida de cada tarefa.
 * **Segurança:** Implementa um fluxo de autenticação e autorização seguro com **JSON Web Tokens (JWT)**.
 
