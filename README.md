@@ -56,11 +56,9 @@ Estou sempre buscando aprimorar a qualidade e a eficiência das minhas entregas.
 ### Projetos em Destaque
 
 #### ERP para StartINK
-- Sistema completo de gestão de **tarefas, estoque e financiamentos**  
-- **Frontend:** React  
+- Sistema completo de gestão de **tarefas, estoque e financiamentos**   
 - **Backend:** Java Spring Boot  
 - **Segurança:** JWT e Spring Security  
-- Dashboard interativo com métricas em tempo real
 
 #### Sistema de Gestão de Frotas para TrêsD Comunicação Visual
 - Controle de **veículos, motoristas e viagens**  
