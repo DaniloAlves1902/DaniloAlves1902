@@ -4,29 +4,29 @@
 </div>
 
 <p align="center">
-  <em>Desenvolvedor Backend especializado em <strong>Java Spring Boot</strong> e bancos de dados relacionais & NoSQL.<br>
-  Focado em construção de APIs escaláveis, microsserviços e arquitetura limpa.</em>
+  <em>Backend Developer specializing in <strong>Java Spring Boot</strong> and relational & NoSQL databases.<br>
+  Focused on building scalable APIs, microservices, and clean architecture.</em>
 </p>
 
 ---
 
-### Sobre Mim
+### About Me
 
-- Cursando **Análise e Desenvolvimento de Sistemas**  
-- Experiência em **desenvolvimento backend** com Java Spring Boot  
-- Desenvolvimento de **APIs RESTful**, microsserviços e sistemas robustos  
-- Interesses: **Clean Code, testes automatizados e arquitetura limpa**
+- Currently pursuing a degree in **Systems Analysis and Development**
+- Experienced in **backend development** using Java Spring Boot
+- Skilled in developing **RESTful APIs**, microservices, and robust systems
+- Passionate about **Clean Code, automated testing, and clean architecture**
 
 ---
 
-### Tecnologias e Ferramentas
+### Technologies & Tools
 
-| Backend             | Bancos de Dados | Ferramentas & DevOps      | Frontend          |
+| Backend             | Databases       | Tools & DevOps            | Frontend          |
 | ------------------- | --------------- | ------------------------- | ----------------- |
 | Java (Spring Boot)  | PostgreSQL      | Git                       | HTML / CSS / JS   |
 | Spring Security     | MySQL           | Docker                    | React / Next.js   |
 | Hibernate / JPA     | MongoDB         | Maven                     | Tailwind CSS      |
-| REST APIs           |                 | Testes Unitários / JUnit  |                   |
+| REST APIs           |                 | Unit Testing / JUnit      |                   |
 
 ---
 
@@ -43,46 +43,45 @@
 
 ---
 
-### O Que Estou Estudando Atualmente
-Estou sempre buscando aprimorar a qualidade e a eficiência das minhas entregas. Atualmente, meu foco de estudo está em:
+### What I'm Currently Learning
+I am always seeking to enhance the quality and efficiency of my work. My current areas of study are:
 
-- **Clean Architecture:** Aprofundando nos princípios para construir softwares cada vez mais robustos, testáveis e de fácil manutenção.
-- **JUnit & TDD:** Focado em aprimorar a criação de testes unitários e de integração, utilizando o TDD (Test-Driven Development) como prática para garantir a máxima qualidade do código.
-- **Spring Security:** Aprofundando em mecanismos de autenticação e autorização (como JWT e OAuth2) para construir APIs ainda mais seguras e robustas.
-- **Docker:** Aprimorando minhas habilidades na containerização de aplicações Java, visando otimizar os ambientes de desenvolvimento e facilitar o processo de deploy.
-
----
-
-### Projetos em Destaque
-
-#### ERP para StartINK
-- Sistema completo de gestão de **tarefas, estoque e financiamentos**   
-- **Backend:** Java Spring Boot  
-- **Segurança:** JWT e Spring Security  
-
-#### Sistema de Gestão de Frotas para TrêsD Comunicação Visual
-- Controle de **veículos, motoristas e viagens**  
-- Registro de **quilometragem e avarias**  
-- Sistema seguro com **Spring Security + JWT**  
-- Estrutura escalável e modular
-
-#### Outdoor Management System para a TrêsD Comunicação Visual
-- Sistema de gerenciamento de **outdoors e contratos de clientes**  
-- Controle de **coordenadas, materiais e duração de contrato**  
-- **Backend:** Java Spring Boot  
-- **Segurança:** JWT e Spring Security  
-- Implementa **Clean Architecture** com **mappers, gateways e JPA**  
-- Permite CRUD completo de outdoors e consultas detalhadas
+- **Clean Architecture:** Deepening my understanding of its principles to build more robust, testable, and maintainable software.
+- **JUnit & TDD:** Focusing on enhancing unit and integration tests, using Test-Driven Development (TDD) as a core practice to ensure maximum code quality.
+- **Spring Security:** Diving deeper into authentication and authorization mechanisms (like JWT and OAuth2) to build even more secure and robust APIs.
+- **Docker:** Improving my skills in containerizing Java applications to streamline development environments and simplify the deployment process.
 
 ---
 
-### Contato
+### Featured Projects
+
+#### ERP for StartINK
+- A comprehensive system for managing **tasks, inventory, and finances**
+- **Backend:** Java Spring Boot
+- **Security:** JWT and Spring Security
+
+#### Fleet Management System for TrêsD Comunicação Visual
+- Manages **vehicles, drivers, and trips**
+- Tracks **mileage and vehicle damage logs**
+- Secure system built with **Spring Security + JWT**
+- Features a scalable and modular architecture
+
+#### Outdoor Management System for TrêsD Comunicação Visual
+- Manages **billboards and client contracts**
+- Controls **coordinates, materials, and contract durations**
+- **Backend:** Java Spring Boot
+- **Security:** JWT and Spring Security
+- Implements **Clean Architecture** with mappers, gateways, and JPA
+- Allows full **CRUD operations** for billboards and detailed queries
+
+---
+
+### Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-de-figueiredo-alves-103262327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://danilo-alves.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-5A69E0?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -91,6 +90,12 @@ Estou sempre buscando aprimorar a qualidade e a eficiência das minhas entregas.
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/DaniloAlves1902">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlves1902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ---
 
-> "Construindo APIs robustas e soluções backend escaláveis, sempre com foco em qualidade e boas práticas."
+> "Building robust APIs and scalable backend solutions, with a constant focus on quality and best practices."
