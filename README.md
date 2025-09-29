@@ -13,8 +13,8 @@
 ### About Me
 
 - Currently pursuing a degree in **Systems Analysis and Development**
-- Experienced in **backend development** using Java Spring Boot
-- Skilled in developing **RESTful APIs**, microservices, and robust systems
+- Backend Engineer with solid experience in Java Spring Boot
+- Skilled in developing RESTful APIs, microservices, and robust, scalable systems
 - Passionate about **Clean Code, automated testing, and clean architecture**
 
 ---
@@ -27,8 +27,8 @@
 | Spring Security     | MySQL           | Docker                    | React / Next.js   |
 | Hibernate / JPA     | MongoDB         | Maven                     | Tailwind CSS      |
 | REST APIs           |                 | Unit Testing / JUnit      |                   |
-
----
+| Node.js             |                 |                           |                   |
+| Express             |                 |                           |                   |
 
 ### Skills
 
