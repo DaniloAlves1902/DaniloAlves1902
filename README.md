@@ -27,8 +27,7 @@
 | Spring Security     | MySQL           | Docker                    | React / Next.js   |
 | Hibernate / JPA     | MongoDB         | Maven                     | Tailwind CSS      |
 | REST APIs           |                 | Unit Testing / JUnit      |                   |
-|                     |                 |                           |                   |
-|                     |                 |                           |                   |
+
 
 ### Skills
 
