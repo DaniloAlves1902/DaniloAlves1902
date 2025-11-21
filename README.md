@@ -1,35 +1,36 @@
 <div align="center">
-  <h1>Backend Developer</h1>
-  <h3>Java | Spring Boot | API Development | Full-stack Skills</h3>
+  <h1>Desenvolvedor Backend</h1>
+  <h3>Java | Spring Boot | Desenvolvimento de APIs | Habilidades Full-stack</h3>
 </div>
 
 <p align="center">
-  <em>Backend Developer specializing in <strong>Java Spring Boot</strong> and relational & NoSQL databases.<br>
-  Focused on building scalable APIs, microservices, and clean architecture.</em>
+  <em>Desenvolvedor Backend especialista em <strong>Java Spring Boot</strong> e bancos de dados relacionais & NoSQL.<br>
+  Focado na construção de APIs escaláveis, microsserviços e arquitetura limpa.</em>
 </p>
 
 ---
 
-### About Me
+### Sobre Mim
 
-- Currently pursuing a degree in **Systems Analysis and Development**
-- Backend Engineer with solid experience in Java Spring Boot
-- Skilled in developing RESTful APIs, microservices, and robust, scalable systems
-- Passionate about **Clean Code, automated testing, and clean architecture**
+- 🌍 **Aberto a oportunidades de trabalho remoto**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Engenheiro de Backend com sólida experiência em Java Spring Boot
+- 🚀 Habilidade no desenvolvimento de APIs RESTful, microsserviços e sistemas robustos e escaláveis
+- ✨ Apaixonado por **Clean Code, testes automatizados e Clean Architecture**
 
 ---
 
-### Technologies & Tools
+### Tecnologias & Ferramentas
 
-| Backend             | Databases       | Tools & DevOps            | Frontend          |
+| Backend             | Banco de Dados  | Ferramentas & DevOps      | Frontend          |
 | ------------------- | --------------- | ------------------------- | ----------------- |
 | Java (Spring Boot)  | PostgreSQL      | Git                       | HTML / CSS / JS   |
 | Spring Security     | MySQL           | Docker                    | React / Next.js   |
 | Hibernate / JPA     | MongoDB         | Maven                     | Tailwind CSS      |
-| REST APIs           |                 | Unit Testing / JUnit      |                   |
+| REST APIs           |                 | Testes Unitários / JUnit  |                   |
 
 
-### Skills
+### Habilidades
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -42,40 +43,40 @@
 
 ---
 
-### What I'm Currently Learning
-I am always seeking to enhance the quality and efficiency of my work. My current areas of study are:
+### O que estou estudando
+Estou sempre buscando melhorar a qualidade e eficiência do meu trabalho. Minhas áreas atuais de estudo são:
 
-- **Clean Architecture:** Deepening my understanding of its principles to build more robust, testable, and maintainable software.
-- **JUnit & TDD:** Focusing on enhancing unit and integration tests, using Test-Driven Development (TDD) as a core practice to ensure maximum code quality.
-- **Spring Security:** Diving deeper into authentication and authorization mechanisms (like JWT and OAuth2) to build even more secure and robust APIs.
-- **Docker:** Improving my skills in containerizing Java applications to streamline development environments and simplify the deployment process.
-
----
-
-### Featured Projects
-
-#### ERP for StartINK
-- A comprehensive system for managing **tasks, inventory, and finances**
-- **Backend:** Java Spring Boot
-- **Security:** JWT and Spring Security
-
-#### Fleet Management System for TrêsD Comunicação Visual
-- Manages **vehicles, drivers, and trips**
-- Tracks **mileage and vehicle damage logs**
-- Secure system built with **Spring Security + JWT**
-- Features a scalable and modular architecture
-
-#### Outdoor Management System for TrêsD Comunicação Visual
-- Manages **billboards and client contracts**
-- Controls **coordinates, materials, and contract durations**
-- **Backend:** Java Spring Boot
-- **Security:** JWT and Spring Security
-- Implements **Clean Architecture** with mappers, gateways, and JPA
-- Allows full **CRUD operations** for billboards and detailed queries
+- **Clean Architecture:** Aprofundando meu entendimento de seus princípios para construir software mais robusto, testável e fácil de manter.
+- **JUnit & TDD:** Focando em aprimorar testes unitários e de integração, usando Test-Driven Development (TDD) como prática central para garantir máxima qualidade de código.
+- **Spring Security:** Mergulhando fundo em mecanismos de autenticação e autorização (como JWT e OAuth2) para criar APIs ainda mais seguras.
+- **Docker:** Melhorando minhas habilidades em "conteinerizar" aplicações Java para agilizar ambientes de desenvolvimento e simplificar o processo de deploy.
 
 ---
 
-### Get in Touch
+### Projetos em Destaque
+
+#### ERP para StartINK
+- Um sistema abrangente para gestão de **tarefas, estoque e finanças**
+- **Backend:** Java Spring Boot
+- **Segurança:** JWT e Spring Security
+
+#### Sistema de Gestão de Frotas para TrêsD Comunicação Visual
+- Gerencia **veículos, motoristas e viagens**
+- Rastreia **quilometragem e registros de danos nos veículos**
+- Sistema seguro construído com **Spring Security + JWT**
+- Possui uma arquitetura modular e escalável
+
+#### Sistema de Gestão de Outdoors para TrêsD Comunicação Visual
+- Gerencia **outdoors e contratos de clientes**
+- Controla **coordenadas, materiais e duração de contratos**
+- **Backend:** Java Spring Boot
+- **Segurança:** JWT e Spring Security
+- Implementa **Clean Architecture** com mappers, gateways e JPA
+- Permite **operações completas de CRUD** para outdoors e consultas detalhadas
+
+---
+
+### Entre em Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-de-figueiredo-alves-103262327/" target="_blank">
@@ -91,10 +92,13 @@ I am always seeking to enhance the quality and efficiency of my work. My current
 
 <div align="center">
   <a href="https://github.com/DaniloAlves1902">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlves1902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlves1902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniloAlves1902&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-> "Building robust APIs and scalable backend solutions, with a constant focus on quality and best practices."
+> "Construindo APIs robustas e soluções backend escaláveis, com foco constante em qualidade e melhores práticas."
