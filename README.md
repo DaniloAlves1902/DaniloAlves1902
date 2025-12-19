@@ -65,7 +65,13 @@ Development of high-performance, responsive, and SEO-optimized websites for loca
 
 ## most commonly used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark&hide=html,css"
+    style="width: 55%; max-width: 900px; heigth: 40%"
+  />
+</div>
+
 
 ---
 
