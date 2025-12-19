@@ -63,6 +63,12 @@ Development of high-performance, responsive, and SEO-optimized websites for loca
 
 ---
 
+## most commonly used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark)
+
+---
+
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/danilo-de-figueiredo-alves-103262327/) • [Website](https://danilo-alves.vercel.app) • [Email](mailto:danilo.alvess1902@gmail.com)
