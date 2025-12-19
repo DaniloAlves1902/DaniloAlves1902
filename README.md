@@ -1,6 +1,18 @@
 # Danilo de F. Alves
 ## Fouder at Mandakaru Conn | Backend Software Engineer | Java & Spring Ecosystem
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge"/>
+</div>
+
+
+
 Backend Developer focused on software architecture, scalability, and engineering best practices. Specialist in the **Java (Spring Boot)** ecosystem, with strong experience in data modeling and building secure, high-performance RESTful APIs. Currently pursuing a degree in **Analysis and Systems Development**.
 
 ---
@@ -67,8 +79,8 @@ Development of high-performance, responsive, and SEO-optimized websites for loca
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark&hide=html,css"
-    style="width: 55%; max-width: 900px; heigth: 40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&hide=html,css&hide_border=true&bg_color=0d1120&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"
+    style="width: 55%; max-width: 900px;"
   />
 </div>
 
