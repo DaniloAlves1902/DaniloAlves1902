@@ -63,6 +63,7 @@ Development of high-performance, responsive, and SEO-optimized websites for loca
 * **[TrêsD Online](https://www.tresdonline.com.br/)** - Corporate website for visual communication agency.
 * **[StartINK](https://startink.com.br)** - Business website for printing solutions.
 * **[Studio Suely](https://studiosuely.vercel.app)** - Portfolio and scheduling for beauty salon.
+* **[Higor Car](https://www.higorcar.com.br/)** - institutional website of a car dealership.
 * *And other freelance projects.*
 
 ---
