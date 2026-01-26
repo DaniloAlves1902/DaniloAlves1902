@@ -82,14 +82,14 @@ Development of high-performance, responsive, and SEO-optimized websites for loca
       <h3>Most Used Languages</h3>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&hide=html,css&hide_border=true&bg_color=0d1120&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"
-        style="width: 420px;"
+        width="420"
       />
     </td>
     <td align="center">
       <h3>🔥 Contribution Streak</h3>
       <img
         src="https://streak-stats.demolab.com?user=DaniloAlves1902&theme=tokyonight&hide_border=true"
-        style="width: 420px;"
+        width="420"
       />
     </td>
   </tr>
