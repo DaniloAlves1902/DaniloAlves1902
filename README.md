@@ -88,13 +88,12 @@ Development of high-performance, responsive, and SEO-optimized websites for loca
     <td align="center">
       <h3>🔥 Contribution Streak</h3>
       <img
-        src="https://streak-stats.demolab.com?user=DaniloAlves1902&theme=tokyonight&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DaniloAlves1902&hide_border=true&background=0d1120&ring=58a6ff&fire=1f6feb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9"
         width="420"
       />
     </td>
   </tr>
 </table>
-
 
 ---
 
