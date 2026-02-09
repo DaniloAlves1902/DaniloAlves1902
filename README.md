@@ -20,10 +20,11 @@ Backend Developer focused on software architecture, scalability, and engineering
 ### 🛠 Tech Stack
 
 **Core Backend:**
-- Java 17+, Spring Boot 3
+- Java 17+, Spring Boot 3 & 4
 - Spring Security (JWT, OAuth2)
 - Hibernate / JPA
 - API Design (REST)
+- Desktop App with Spring Boot
 
 **Data & Infra:**
 - PostgreSQL, MySQL, MongoDB
@@ -33,6 +34,7 @@ Backend Developer focused on software architecture, scalability, and engineering
 **Frontend & Others:**
 - React, Next.js, Tailwind CSS (Full-stack capabilities)
 - Clean Architecture, SOLID, TDD
+- Unit tests
 
 ---
 
@@ -41,10 +43,42 @@ Backend Developer focused on software architecture, scalability, and engineering
 #### **Mandakaru Conn** (Founder & Lead Developer)
 Leading the development of SaaS solutions and custom corporate systems.
 
-* **[Alivioo](https://www.mandakaruconn.com.br/alivioo.html)**
-    * *Intelligent Automation SaaS.*
-    * The system that learns your routine. Instead of manually configuring flows, Alivioo observes administrative patterns, connects applications, and creates automations intelligently.
-    * **Stack:** Java, Spring Boot, Microservices, React.
+---
+
+### **[Alivioo](https://www.mandakaruconn.com.br/alivioo.html)**  
+**Intelligent Automation SaaS**
+
+**Alivioo** is an intelligent automation platform designed to eliminate repetitive administrative tasks. Instead of relying on manual flow configuration, the system learns user routines, detects patterns, integrates applications, and creates automations autonomously.
+
+Built for scalability and operational efficiency, Alivioo helps businesses optimize processes, reduce human error, and focus on strategic decision-making.
+
+#### **Key Features**
+- **Routine Learning:** Observes and adapts to administrative patterns.
+- **Smart Integrations:** Connects multiple applications seamlessly.
+- **Autonomous Automation:** Reduces manual configuration and operational overhead.
+
+#### **Tech Stack**
+- **Backend:** Java, Spring Boot, Microservices  
+- **Frontend:** React
+
+---
+
+### **[MandaPDV](https://www.mandakaruconn.com.br/mandapdv.html)**  
+**Enterprise Resource Planning (ERP) & Point of Sale (POS)**
+
+**Manda PDV** is a lean, high-performance ERP designed for businesses that demand speed, reliability, and clarity. It seamlessly combines a lightning-fast Point of Sale with robust ERP capabilities, centralizing sales, inventory, and financial management into a single, intuitive interface.
+
+Built for scalability and operational efficiency, Manda PDV eliminates unnecessary complexity, giving business owners full control with the agility needed to grow.
+
+#### **Key Features**
+- **Quick Checkout:** Optimized for high-volume sales environments.
+- **Smart Management:** Streamlined inventory control and financial tracking.
+- **Data-Driven Insights:** Clear, concise reports to support faster and smarter decision-making.
+
+#### **Tech Stack**
+- **Backend:** Java, Spring Boot  
+- **Desktop Client:** JavaFX
+
 
 #### **Corporate Systems (Internal Tools)**
 
