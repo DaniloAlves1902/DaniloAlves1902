@@ -30,4 +30,5 @@ Currently pursuing a degree in Analysis and Systems Development.
   <a href="https://github.com/DaniloAlves1902">GitHub</a> •
   <a href="https://www.linkedin.com/in/danilo-de-figueiredo-alves-103262327/">LinkedIn</a> •
   <a href="mailto:danilo.alvess1902@gmail.com">Email</a>
+  <a href="https://daniloalves.vercel.app/">Portfolio</a>
 </p>
