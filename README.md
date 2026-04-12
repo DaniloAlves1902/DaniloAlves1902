@@ -45,8 +45,8 @@ Currently pursuing a degree in **Analysis and Systems Development**.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlves1902&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlves1902&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark" />
 </div>
 
 ---
