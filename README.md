@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Backend Software Engineer specialized in the **Java and Spring ecosystem**, focused on designing and building scalable, secure, and maintainable systems.
 
@@ -20,7 +20,7 @@ Currently pursuing a degree in **Analysis and Systems Development**.
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -42,16 +42,15 @@ Currently pursuing a degree in **Analysis and Systems Development**.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlves1902&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAlves1902&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=DaniloAlves1902&theme=github-dark" />
 </div>
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/DaniloAlves1902" target="_blank">
